@@ -1,0 +1,23 @@
+h1{
+	color: #2E9DA7;
+	text-align: center;
+	font-style: italic;
+	font-family: "Times New Roman", Georgia;
+}
+
+h2{
+	color: #6861AA;
+	text-align: center;
+	font-style: italic;
+	font-family: "Times New Roman", Georgia;
+}
+
+li{
+	list-style: none;
+	text-align: center;
+}
+
+body{
+	background-color: #E5C69D;
+}
+
